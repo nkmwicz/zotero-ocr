@@ -1,0 +1,20 @@
+ZOTERO LIBRARY OCR ANALYSIS SUMMARY
+==================================================
+
+Analysis completed: 2025-09-21 11:32:57
+Scan time: 118.8 seconds
+Processing rate: 18.2 PDFs/second
+
+RESULTS:
+  📁 Storage folders scanned: 3143
+  📄 Total PDFs found: 2165
+  ✅ PDFs with good text: 1971 (91.0%)
+  🔍 PDFs needing OCR: 193 (8.9%)
+  ❌ Analysis errors: 1 (0.0%)
+
+NEXT STEPS:
+  1. Review needs_ocr_detailed.csv for prioritization
+  2. Backup your Zotero library before OCR processing
+  3. Run OCR on high-priority items first (largest files)
+  4. Use: ocrmypdf --force-ocr input.pdf output.pdf
+  5. Test with a few files before batch processing

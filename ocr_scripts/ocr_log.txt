@@ -1,0 +1,35 @@
+OCR Processing Started: Tue Sep 23 03:15:09 PM EDT 2025
+SKIP: Output already exists: ./Brey.pdf
+SKIP: Output already exists: ./Greengrass - 1991 - Social Geography of French Protestantism.pdf
+SKIP: Output already exists: ./Pedani - 2015 - Muslim Ambassadors to Venice up to the 16th centur.pdf
+SKIP: Output already exists: ./Merriman - 2010 - Industrial Revolution [Consequences excerpts].pdf
+SKIP: Output already exists: ./Peterson - 2022 - Sacred Rivals Catholic Missions and the Making of.pdf
+SKIP: Output already exists: ./Akyavas. Yirmisekiz Celebi Mehmed Efendinin Fransa Sefaretnamesi.pdf
+SKIP: Output already exists: ./Muhimme E-12321.pdf
+SKIP: Output already exists: ./Muhimme 141 (1148).pdf
+SKIP: Output already exists: ./Muhimme 128 (1717).pdf
+SKIP: Output already exists: ./Brian Davies - Warfare, State and Society on the Black Sea Steppe, 1500-1700-Routledge (2007) (1).pdf
+SKIP: Output already exists: ./Bartolomei et al. - 2017 - De l’utilité commerciale des consuls. L’institutio.pdf
+SKIP: Output already exists: ./The-Adventures-Of-Ibn-Battuta.pdf
+SKIP: Output already exists: ./L''Histoire universelle du sieur d''Aubigné....pdf
+SKIP: Output already exists: ./334336858-Christian-Muslim-Relations-Vol-I.pdf
+SKIP: Output already exists: ./Ribera_2007_Les ambassadeurs du roi de France auprès de Philippe II, du traité du.pdf
+SKIP: Output already exists: ./1501_Dépêches originales de divers ambassadeurs et agents français à Constantinople.pdf
+SKIP: Output already exists: ./Lesure_1986_Les Relations Franco-Ottomanes a L'Épreuve des Guerres de Religion (1560-1594).pdf
+SKIP: Output already exists: ./missions diplomatique du Claude du Bourg.pdf
+SKIP: Output already exists: ./217106847-Amin-Maalouf-the-Crusades-Through-Arab-Eyes-Libre.pdf
+SKIP: Output already exists: ./AIZAWA_1995_The Gap Between Science and Policy in The Bell Curve.pdf
+SKIP: Output already exists: ./Fleischer_1986_Bureaucrat and intellectual in the Ottoman Empire.pdf
+SKIP: Output already exists: ./fleischer-ch7.pdf
+SKIP: Output already exists: ./fleischer-ch6.pdf
+SKIP: Output already exists: ./fleischer-ch2.pdf
+SKIP: Output already exists: ./Johnson - 2006 - Idolatrous Cultures and the Practice of Religion.pdf
+SKIP: Output already exists: ./Shaw - Ancient Egypt A Very Short Introduction.pdf
+SKIP: Output already exists: ./Négociations_de_la_France_dans_Levant I.pdf
+SKIP: Output already exists: ./Skilliter--Catherine de Medicis Turkish Ladies in Waiting.pdf
+SKIP: Output already exists: ./aksan-locating ottomans among early modern empires.pdf
+SUCCESS: ./MSS_NAF-22048.pdf completed in 3962s
+ERROR: Failed to process /home/nathan/Desktop/zotero-storage-copy/E7QUBUE3/./Taylor - 2011 - Family Matters The Emigration of Elderly Jews fro.pdf
+ERROR: Failed to process /home/nathan/Desktop/zotero-storage-copy/AGX42NX7/./Kaiser - 2011 - Icons and Private Devotion Among Eighteenth-Centur.pdf
+SUCCESS: ./henri de mesmes--memoires.pdf completed in 884s
+SKIP: Output already exists: ./Fr 3165.pdf
