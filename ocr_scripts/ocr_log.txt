@@ -1,35 +1,139 @@
-OCR Processing Started: Tue Sep 23 03:15:09 PM EDT 2025
-SKIP: Output already exists: ./Brey.pdf
-SKIP: Output already exists: ./Greengrass - 1991 - Social Geography of French Protestantism.pdf
-SKIP: Output already exists: ./Pedani - 2015 - Muslim Ambassadors to Venice up to the 16th centur.pdf
-SKIP: Output already exists: ./Merriman - 2010 - Industrial Revolution [Consequences excerpts].pdf
-SKIP: Output already exists: ./Peterson - 2022 - Sacred Rivals Catholic Missions and the Making of.pdf
-SKIP: Output already exists: ./Akyavas. Yirmisekiz Celebi Mehmed Efendinin Fransa Sefaretnamesi.pdf
-SKIP: Output already exists: ./Muhimme E-12321.pdf
-SKIP: Output already exists: ./Muhimme 141 (1148).pdf
-SKIP: Output already exists: ./Muhimme 128 (1717).pdf
-SKIP: Output already exists: ./Brian Davies - Warfare, State and Society on the Black Sea Steppe, 1500-1700-Routledge (2007) (1).pdf
-SKIP: Output already exists: ./Bartolomei et al. - 2017 - De l’utilité commerciale des consuls. L’institutio.pdf
-SKIP: Output already exists: ./The-Adventures-Of-Ibn-Battuta.pdf
-SKIP: Output already exists: ./L''Histoire universelle du sieur d''Aubigné....pdf
-SKIP: Output already exists: ./334336858-Christian-Muslim-Relations-Vol-I.pdf
-SKIP: Output already exists: ./Ribera_2007_Les ambassadeurs du roi de France auprès de Philippe II, du traité du.pdf
-SKIP: Output already exists: ./1501_Dépêches originales de divers ambassadeurs et agents français à Constantinople.pdf
-SKIP: Output already exists: ./Lesure_1986_Les Relations Franco-Ottomanes a L'Épreuve des Guerres de Religion (1560-1594).pdf
-SKIP: Output already exists: ./missions diplomatique du Claude du Bourg.pdf
-SKIP: Output already exists: ./217106847-Amin-Maalouf-the-Crusades-Through-Arab-Eyes-Libre.pdf
-SKIP: Output already exists: ./AIZAWA_1995_The Gap Between Science and Policy in The Bell Curve.pdf
-SKIP: Output already exists: ./Fleischer_1986_Bureaucrat and intellectual in the Ottoman Empire.pdf
-SKIP: Output already exists: ./fleischer-ch7.pdf
-SKIP: Output already exists: ./fleischer-ch6.pdf
-SKIP: Output already exists: ./fleischer-ch2.pdf
-SKIP: Output already exists: ./Johnson - 2006 - Idolatrous Cultures and the Practice of Religion.pdf
-SKIP: Output already exists: ./Shaw - Ancient Egypt A Very Short Introduction.pdf
-SKIP: Output already exists: ./Négociations_de_la_France_dans_Levant I.pdf
-SKIP: Output already exists: ./Skilliter--Catherine de Medicis Turkish Ladies in Waiting.pdf
-SKIP: Output already exists: ./aksan-locating ottomans among early modern empires.pdf
-SUCCESS: ./MSS_NAF-22048.pdf completed in 3962s
-ERROR: Failed to process /home/nathan/Desktop/zotero-storage-copy/E7QUBUE3/./Taylor - 2011 - Family Matters The Emigration of Elderly Jews fro.pdf
-ERROR: Failed to process /home/nathan/Desktop/zotero-storage-copy/AGX42NX7/./Kaiser - 2011 - Icons and Private Devotion Among Eighteenth-Centur.pdf
-SUCCESS: ./henri de mesmes--memoires.pdf completed in 884s
-SKIP: Output already exists: ./Fr 3165.pdf
+OCR Processing Started: Fri Oct 10 09:48:06 AM EDT 2025
+SUCCESS: ./Pedani - 2015 - Muslim Ambassadors to Venice up to the 16th centur.pdf completed in 14s
+SUCCESS: ./Merriman - 2010 - Industrial Revolution [Consequences excerpts].pdf completed in 28s
+SUCCESS: ./Peterson - 2022 - Sacred Rivals Catholic Missions and the Making of.pdf completed in 9s
+SUCCESS: ./Ursu La politique orientale de Francois Ier 1515-1547.pdf completed in 191s
+SUCCESS: ./Citlak_Aysegul_Osmanli-Fransa iliskileri_Muteferrika Suleyman Aga'nin Fransa Elciligi_1669-1670_MA.pdf completed in 106s
+ERROR: Failed to process /home/nkmwicz/Desktop/zotero-storage-copy/MCQRDT29/./Muhimme 141 (1148).pdf
+ERROR: Failed to process /home/nkmwicz/Desktop/zotero-storage-copy/SHHITQCB/./Muhimme 124 (1128).pdf
+ERROR: Failed to process /home/nkmwicz/Desktop/zotero-storage-copy/7YAGWV36/./Muhimme 96-7 [1679-1680] [ed. Gunduz].pdf
+ERROR: Failed to process /home/nkmwicz/Desktop/zotero-storage-copy/XAWTQXYS/./Muhimme 75 (p1-171).pdf
+ERROR: Failed to process /home/nkmwicz/Desktop/zotero-storage-copy/5E48NF8Q/./Muhimme 51 (1583).pdf
+ERROR: Failed to process /home/nkmwicz/Desktop/zotero-storage-copy/3MHUC7ET/./Muhimme 51-YOK (1583).pdf
+SUCCESS: ./Hess_1978_The forgotten frontier.pdf completed in 1994s
+SUCCESS: ./Dickerman and Walker - 2000 - Missions Impossible Pomponne de Bellièvre and the.pdf completed in 13s
+SUCCESS: ./Heath - 1986 - Crusading Commonplaces La Noue, Lucinge and Rheto.pdf completed in 116s
+SUCCESS: ./Inventaires des Archives de la Chambre de commerce de Marseille.pdf completed in 1120s
+SUCCESS: ./Colonization, Piracy, and Trade - Unknown.pdf completed in 231s
+ERROR: Failed to process /home/nkmwicz/Desktop/zotero-storage-copy/8EN5CRZ4/./L''Histoire universelle du sieur d''Aubigné....pdf
+SUCCESS: ./Postel_1560_De la république des Turcs.pdf completed in 356s
+SUCCESS: ./Poumarède_2009_Les envoyés ottomans àla cour de France.pdf completed in 27s
+SUCCESS: ./calendarstatepa00browgoog.pdf completed in 1000s
+SUCCESS: ./Zar-o_Zur_Gold_and_Force_Safavid_Iran_as.pdf completed in 24s
+SUCCESS: ./Sutherland_1984_Princes, politics, and religion, 1547-1589.pdf completed in 270s
+SUCCESS: ./Les Navigations de Nicolas de Nicolay.pdf completed in 381s
+SUCCESS: ./AIZAWA_1995_The Gap Between Science and Policy in The Bell Curve.pdf completed in 17s
+SUCCESS: ./Fleischer_1986_Bureaucrat and intellectual in the Ottoman Empire.pdf completed in 10s
+SUCCESS: ./fleischer-ch7.pdf completed in 16s
+SUCCESS: ./fleischer-intro.pdf completed in 13s
+SUCCESS: ./fleischer-biblio.pdf completed in 13s
+SUCCESS: ./fleischer-ch12.pdf completed in 19s
+SUCCESS: ./fleischer-ch10.pdf completed in 24s
+SUCCESS: ./Shaw - Ancient Egypt A Very Short Introduction.pdf completed in 197s
+SUCCESS: ./An_Ottoman_Report_about_Martin_Luther-- Christine Isom-Verhaaren.pdf completed in 12s
+SUCCESS: ./Stedman - 2006 - Renaissance Go-Betweens Cultural Exchange in Earl.pdf completed in 5s
+SUCCESS: ./Arcak - 2012 - Gifts in motion Ottoman-Safavid cultural exchange.pdf completed in 633s
+SUCCESS: ./Skilliter--Catherine de Medicis Turkish Ladies in Waiting.pdf completed in 14s
+SUCCESS: ./Belmessous - 2005 - Assimilation and Racialism in Seventeenth and Eigh.pdf completed in 126s
+ERROR: Failed to process /home/nkmwicz/Desktop/zotero-storage-copy/AGX42NX7/./Kaiser - 2011 - Icons and Private Devotion Among Eighteenth-Centur.pdf
+SUCCESS: ./Tarih-i Selaniki.pdf completed in 713s
+SUCCESS: ./Justifier l'Injustifiable.pdf completed in 23s
+SUCCESS: ./Brey.pdf completed in 10s
+SUCCESS: ./Benedict - 2002 - The Wars of Religion, 1562-1598.pdf completed in 84s
+SUCCESS: ./Greengrass - 1991 - Social Geography of French Protestantism.pdf completed in 47s
+SUCCESS: ./Bull - 2002 - The South.pdf completed in 96s
+SUCCESS: ./Peterson - 2022 - Sacred Rivals Catholic Missions and the Making of.pdf completed in 9s
+SUCCESS: ./Parker - 1975 - The Army of Flanders and the Spanish Road 1567-165.pdf completed in 935s
+SUCCESS: ./Akyavas. Yirmisekiz Celebi Mehmed Efendi'nin Fransa Sefaretnamesi.pdf completed in 11s
+ERROR: Failed to process /home/nkmwicz/Desktop/zotero-storage-copy/D29QI29M/./Ahkam Defteri 906-1501 [ed. Emecen].pdf
+SUCCESS: ./Muhimme 141.pdf completed in 245s
+SUCCESS: ./Muhimme 109-YOK.pdf completed in 195s
+SUCCESS: ./Muhimme 107.pdf completed in 38s
+SUCCESS: ./Muhimme 84.pdf completed in 98s
+SUCCESS: ./Muhimme 63 (1587-1588).pdf completed in 69s
+SUCCESS: ./Muhimme 13 Zeyli (1727).pdf completed in 336s
+SUCCESS: ./Understanding diversity and mentoring diverse students.pdf completed in 43s
+SUCCESS: ./Poulle--Paleographie des ecritures cursives en france du xv au xvii siecle.pdf completed in 224s
+SUCCESS: ./Henri Pirenne - Mohammed and Charlemagne (1959).pdf completed in 270s
+SUCCESS: ./The-Adventures-Of-Ibn-Battuta.pdf completed in 285s
+SUCCESS: ./440597.pdf completed in 20s
+SUCCESS: ./calendarstatepa00browgoog.pdf completed in 943s
+ERROR: Failed to process /home/nkmwicz/Desktop/zotero-storage-copy/9PLDEPEZ/./Sir_william_foster_1931_The Travels Of John Sanderson In The Levant(1584-1602).pdf
+SUCCESS: ./missions diplomatique du Claude du Bourg.pdf completed in 333s
+SUCCESS: ./The Huguenots - Geoffrey Treasure.pdf completed in 551s
+SUCCESS: ./Sugar_2012_Southeastern Europe under Ottoman Rule, 1354-1804.pdf completed in 390s
+ERROR: Failed to process /home/nkmwicz/Desktop/zotero-storage-copy/QKP67EI3/./I_Documenti_Turchi_dell_Archivio_di_Stat.pdf
+SUCCESS: ./NUNLEY_1995_The Bell Curve.pdf completed in 15s
+SUCCESS: ./Vincent Carloix_1757_Mémoires de la vie de François de Scepeaux.pdf completed in 383s
+SUCCESS: ./Wunder_2003_Western Travelers, Eastern Antiquities, and the Image of the Turk in Early.pdf completed in 15s
+SUCCESS: ./fleischer-ch4.pdf completed in 60s
+SUCCESS: ./fleischer-ch1.pdf completed in 33s
+SUCCESS: ./fleischer-ch9.pdf completed in 19s
+SUCCESS: ./fleischer-ch8.pdf completed in 20s
+SUCCESS: ./Plato A Very Short Introduction.pdf completed in 17s
+SUCCESS: ./oeuvrecompltes00lalagoog.pdf completed in 412s
+SUCCESS: ./Inalcik. A Case Study in Renaissance Diplomacy 342-368.pdf completed in 13s
+SUCCESS: ./Négociations_de_la_France_dans_Levant I.pdf completed in 832s
+SUCCESS: ./Kafadar. A Rome of One's Own.pdf completed in 17s
+SUCCESS: ./baron ignace de testa--Recueil des traites de la porte ottomane avec les puissances etrangeres.pdf completed in 649s
+SUCCESS: ./aksan-locating ottomans among early modern empires.pdf completed in 20s
+ERROR: Failed to process /home/nkmwicz/Desktop/zotero-storage-copy/E7QUBUE3/./Taylor - 2011 - Family Matters The Emigration of Elderly Jews fro.pdf
+ERROR: Failed to process /home/nkmwicz/Desktop/zotero-storage-copy/UKXE6NSX/./Caron - 2011 - Reading the Power of Printed Orality in Afghanista.pdf
+SUCCESS: ./Memoires de Mess martin et guillaume de bellay vols. 1 et 2.pdf completed in 386s
+SUCCESS: ./Grande - Striker Finishing Drills.pdf completed in 207s
+SUCCESS: ./Tracy - 1999 - The Reformation in European Perspective.pdf completed in 29s
+SUCCESS: ./Peterson - 2022 - Sacred Rivals Catholic Missions and the Making of.pdf completed in 9s
+SUCCESS: ./Peterson - 2022 - Sacred Rivals Catholic Missions and the Making of.pdf completed in 9s
+SUCCESS: ./Gross - 1948 - The Peace of Westphalia, 1648-1948.pdf completed in 86s
+SUCCESS: ./Muhimm 85 (1040 1630-1631).pdf completed in 2111s
+SUCCESS: ./Samples from treaties from the ottoman archives.pdf completed in 609s
+SUCCESS: ./Yirmisekiz. 1720. Fransa Sefaretnamesi.pdf completed in 51s
+SUCCESS: ./Muhimme E-12321.pdf completed in 180s
+SUCCESS: ./Muhimme 888.pdf completed in 290s
+SUCCESS: ./Muhimme 128 (1717).pdf completed in 163s
+SUCCESS: ./Muhimme 107-YOK.pdf completed in 128s
+SUCCESS: ./Muhimme 63-YOK (1587-1588).pdf completed in 168s
+SUCCESS: ./Muhimme 68-YOK (1589-1590).pdf completed in 242s
+SUCCESS: ./poumarede les envoyees ottomans.pdf completed in 26s
+SUCCESS: ./Bartolomei et al. - 2017 - De l’utilité commerciale des consuls. L’institutio.pdf completed in 17s
+SUCCESS: ./(Women in Culture and Society) Martha C. Howell - Women, Production, and Patriarchy in Late Medieval Cities-University of Chicago Press (1986).pdf completed in 256s
+SUCCESS: ./Pierre de L'Estoile_1875_Mémoires-journaux de Pierre de L'Estoile.pdf completed in 426s
+SUCCESS: ./Ribera_2007_Les ambassadeurs du roi de France auprès de Philippe II, du traité du.pdf completed in 62s
+SUCCESS: ./lapolitiqueorie00ursugoog.pdf completed in 288s
+SUCCESS: ./Lesure_1986_Les Relations Franco-Ottomanes a L'Épreuve des Guerres de Religion (1560-1594).pdf completed in 61s
+SUCCESS: ./217106847-Amin-Maalouf-the-Crusades-Through-Arab-Eyes-Libre.pdf completed in 151s
+ERROR: Failed to process /home/nkmwicz/Desktop/zotero-storage-copy/NVW7E9EL/./I_Documenti_turchi_dellArchivio_di_Stato.pdf
+SUCCESS: ./Muhimme 3 [ed. Tas, MA].pdf completed in 265s
+SUCCESS: ./fleischer-ch5.pdf completed in 49s
+SUCCESS: ./fleischer-ch6.pdf completed in 14s
+SUCCESS: ./fleischer-ch2.pdf completed in 35s
+SUCCESS: ./fleischer-appendixB.pdf completed in 8s
+SUCCESS: ./fleischer-ch11.pdf completed in 23s
+SUCCESS: ./Johnson - 2006 - Idolatrous Cultures and the Practice of Religion.pdf completed in 17s
+SUCCESS: ./D'Alexandrie a Istanbul - Bernard Yvelise.pdf completed in 282s
+SUCCESS: ./Ottoman-Habsburg_Relations_in_the_Second half of the sixteenth century--Gunes Isiksel.pdf completed in 24s
+ERROR: Failed to process /home/nkmwicz/Desktop/zotero-storage-copy/48TEPDF2/./Vardi - 2011 - Auto Thrill Shows and Destruction Derbies, 1922–19.pdf
+SUCCESS: ./henri de mesmes--memoires.pdf completed in 212s
+SUCCESS: ./Deny and Laroch-Lexpedition en provence.pdf completed in 38s
+SUCCESS: ./Tonnies.pdf completed in 27s
+SUCCESS: ./Kafadar-The Question of Ottoman Decline.pdf completed in 34s
+SUCCESS: ./Isom-Verhaaren--Ottoman French Interactions 1480-1580.pdf completed in 19s
+SUCCESS: ./Commentaires_de_messire_Blaise_de_Montlu.pdf completed in 848s
+SUCCESS: ./Consuls and nations in the Levant from 1570-55.pdf completed in 25s
+SUCCESS: ./Brewer - 2002 - Gold, frankincense, and myrrh French consuls and .pdf completed in 212s
+SUCCESS: ./Makdisi - 2002 - Ottoman Orientalism.pdf completed in 48s
+SUCCESS: ./Martens.pdf completed in 9s
+SUCCESS: ./Merriman - 2010 - Industrial Revolution [precondition excerpts].pdf completed in 39s
+SUCCESS: ./Muhımme 91 (1646-1647).pdf completed in 545s
+SUCCESS: ./Brian Davies - Warfare, State and Society on the Black Sea Steppe, 1500-1700-Routledge (2007) (1).pdf completed in 144s
+ERROR: Failed to process /home/nkmwicz/Desktop/zotero-storage-copy/UWCDEBDF/./Sir william foster 1931 The Tra - Unknown.pdf
+SUCCESS: ./334336858-Christian-Muslim-Relations-Vol-I.pdf completed in 468s
+SUCCESS: ./Joseph Nasi, duc de Naxos.pdf completed in 345s
+SUCCESS: ./calendarstatepa02browgoog.pdf completed in 1209s
+SUCCESS: ./fleischer-ch3.pdf completed in 41s
+SUCCESS: ./relazioni from France 1.pdf completed in 544s
+SUCCESS: ./Casale - 2007 - Global Politics in the 1580s One Canal, Twenty Th.pdf completed in 48s
+SUCCESS: ./Articles accordez par le Grand Seigneur [Selim] en faveur du Roy et de ses subjects, a messire Claude du Bourg,1570.pdf completed in 39s
+SUCCESS: ./Commentaires_de_messire_Blaise_de_Montlu.pdf completed in 844s
+\nProcessing Summary: Fri Oct 10 05:34:48 PM EDT 2025
+Success: 120, Failed: 16
